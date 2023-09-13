@@ -41,10 +41,10 @@ En el caso de df_hechos_lesiones, se hace una transformación en las columnas 'm
 
 Se generan los siguientes archivos, los cuales se cargarán en la herramienta Power Bi, en la cual se desarrolla la segunda parte del trabajo:
 
-homicidios.csv
-homicidios_victima.csv
-lesiones.csv
-lesiones_victima.csv
+- homicidios.csv
+- homicidios_victima.csv
+- lesiones.csv
+- lesiones_victima.csv
 
 ## Visualización
 
@@ -98,4 +98,4 @@ En esta recomendación se hara incapie en esta población ya que son grupo econo
 
 - Prudencia en la velocidad, con más énfasis en las avenidas, ya que es el tipo de calle en el que se presenta la mayoría de los siniestros, especialmente los sábados. Hacer retenes y pruebas de alcoholemia durante los meses de agosto y diciembre.
 
--Realizar seguimientos regulares para monitorear las tasas de homicidios en siniestros viales y ajustar la estrategia según sea necesario para alcanzar la reducción del 10%.
+- Realizar seguimientos regulares para monitorear las tasas de homicidios en siniestros viales y ajustar la estrategia según sea necesario para alcanzar la reducción del 10%.
