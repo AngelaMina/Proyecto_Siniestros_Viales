@@ -2,7 +2,7 @@
 
 Este proyecto está desarrollado en un dashboard de Power Bi y muestra información sobre los siniestros viales de Buenos Aires en los años 2016-2021.
 
-[Portada]
+[Portada](https://github.com/AngelaMina/Proyecto_Siniestros_Viales/blob/main/Portada.PNG)
 
 En el presente trabajo, se utilizó un dataset proporcionado por Henry dentro del bootcamp de Data Science, como parte del módulo de proyectos prácticos individuales.
 
