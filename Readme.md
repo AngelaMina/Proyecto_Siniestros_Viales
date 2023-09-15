@@ -52,6 +52,8 @@ Se cargan los archivos anteriormente mencionados y se crea la tabla calendario y
 
 El dashboard se compone de 1 portada y 3 páginas navegables a través de la botonera.
 
+![Accidentabilidad](https://github.com/AngelaMina/Proyecto_Siniestros_Viales/blob/main/Accidentabilidad.PNG)
+
 En la primera página encontramos el registro de 'Accidentes', cantidad de accidentes a lo largo de los años (2016 - 2021).
 
 - Filtro según el año a buscar
@@ -63,6 +65,8 @@ En la primera página encontramos el registro de 'Accidentes', cantidad de accid
 
 En la segunda llamada 'Mortalidad' se visualiza cómo están las cifras respecto a los siniestros.
 
+![Mortalidad](https://github.com/AngelaMina/Proyecto_Siniestros_Viales/blob/main/Mortalidad.PNG)
+
 - Filtro según el año a buscar
 - Filtro según victima 
 - Cantidad de Muertos vs. lesionados
@@ -72,6 +76,8 @@ En la segunda llamada 'Mortalidad' se visualiza cómo están las cifras respecto
 - Total siniestro por comunas
 
 En la tercera llamada KPIs
+
+![KPIs](https://github.com/AngelaMina/Proyecto_Siniestros_Viales/blob/main/KPIs.PNG)
 
 - KPI de reducción del 10% de homicidios por semestre
 - KPI reducción del 7% en motorizados por año
